@@ -1,0 +1,7 @@
+class CharacterSegmenter {
+public:
+    static void segmentCharacters(const cv::Mat &plate, std::vector<cv::Mat> &charImgs) {
+        // Apply morphological operations to improve segmentation
+        // Detailed implementation depends on the specifics of the input images and expected output
+    }
+};
